@@ -80,3 +80,8 @@ header{
     border-radius: 20%;
     font-weight: bold;
 }
+
+.versao{
+    color: rgb(151, 151, 151);
+    font-size: 10px;
+}
