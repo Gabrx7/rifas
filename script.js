@@ -1,5 +1,5 @@
 function Grupo(){
-    window.location.href = ''
+    window.location.href = 'https://chat.whatsapp.com/LrNZuGBevS39j2rZrPjTfz'
 }
 
 function ComprarRifa(){
