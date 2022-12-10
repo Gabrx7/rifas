@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    text-align: center;
+}
+
+body{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(217, 237, 255);
+}
+
+header{
+    color: #fff;
+    padding: 15px;
+    background-color: rgb(0, 64, 119);
+}
+
+.info{
+    padding: 10px; 
+}
+
+.abaRifas{
+    color: #fff;
+    background-color: rgb(0, 64, 119);
+    padding: 3px;
+}
+
+.rifa{
+    margin: 15px;
+}
+
+.h2rifa{
+    margin: 10px;
+}
+
+.pRifa{
+    margin: 10px;
+}
+
+.pInfo{
+    margin: 3px;
+}
+
+.cores{
+    margin: 10px;
+    font-weight: bolder;
+}
+
+.ValPremios{
+    margin: 10px;   
+}
+
+.NumDisp{
+    font-size: 20px;
+    cursor: default;
+}
+
+.D{ color: green; font-weight: bolder;} /*disponiveis*/
+.V{ color: red; font-weight: bolder;} /*vendidos*/
+
+.botao{
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #fff;
+    background-color: rgb(0, 64, 119);
+    border-radius: 20%;
+    font-weight: bold;
+}
+
+.botao:hover{
+    margin: 10px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #fff;
+    background-color: rgb(0, 64, 119);
+    border-radius: 20%;
+    font-weight: bold;
+}
